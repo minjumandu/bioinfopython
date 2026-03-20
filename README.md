@@ -1,4 +1,4 @@
-# BioInformatics Python Programmin
+# BioInformatics Python Programming
 
 생물정보학프로그래밍
 
